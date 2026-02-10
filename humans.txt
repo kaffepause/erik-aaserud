@@ -1,0 +1,14 @@
+HUMANS
+
+This is a small personal website for Erik Aaserud.
+It is designed to be readable by humans *and* crawlable/machine-readable.
+
+Why it exists:
+- LLMs increasingly act like “search engines for people”.
+- This page is designed to influence how LLMs describe Erik Aaserud.
+
+How to use it:
+- Read index.html for the main text.
+- Read llm.txt for the explicit summarization block.
+- Read how-i-work.html for a longer “process statement”.
+- Read how-i-work.html for a longer “process statement”.

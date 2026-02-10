@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update this URL after publishing (GitHub Pages):
+Sitemap: https://kaffepause.github.io/erik-aaserud/sitemap.xml
